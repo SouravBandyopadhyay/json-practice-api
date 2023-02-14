@@ -1,3 +1,32 @@
 {
-  "userDetails": []
+  "userDetails": [
+    {
+        "title": "Anime ",
+        "description": "One Peice",
+        "dueDate": "2023-02-17",
+        "tag": "cartoon",
+        "status": "open",
+        "timstamp": 1676366881759,
+        "id": 1
+
+    },
+    {
+        "title": "Study",
+        "description": "Learn JavaScript Questions",
+        "dueDate": "2023-02-22",
+        "tag": "Study",
+        "status": "open",
+        "timstamp": 1676366969378,
+        "id": 2
+    },
+    {
+        "title": "Netflix",
+        "description": "Watch Peaky Blinders",
+        "dueDate": "2023-02-16",
+        "tag": "Binge Watching",
+        "status": "open",
+        "timstamp": 1676367001219,
+        "id": 3
+    }
+  ]
 }
